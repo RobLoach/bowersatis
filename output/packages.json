@@ -1,0 +1,1746 @@
+{
+    "packages": {
+        "bower/almond": {
+            "master": {
+                "name": "bower/almond",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/jrburke/almond.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/amplify": {
+            "master": {
+                "name": "bower/amplify",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/appendto/amplify",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/angular": {
+            "master": {
+                "name": "bower/angular",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/angular/bower-angular.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/angular-ui": {
+            "master": {
+                "name": "bower/angular-ui",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/angular-ui/angular-ui.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/backbone": {
+            "master": {
+                "name": "bower/backbone",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/documentcloud/backbone.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/backbone-amd": {
+            "master": {
+                "name": "bower/backbone-amd",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/amdjs/backbone",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/backbone-dombuilder": {
+            "master": {
+                "name": "bower/backbone-dombuilder",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/insin/backbone-dombuilder",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/backbone-jqmobile": {
+            "master": {
+                "name": "bower/backbone-jqmobile",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/jumpbytehq/backbone-jqmobile",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/backbone.chosen": {
+            "master": {
+                "name": "bower/backbone.chosen",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/asciidisco/Backbone.Chosen",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/backbone.collectionsubset": {
+            "master": {
+                "name": "bower/backbone.collectionsubset",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/anthonyshort/backbone.collectionsubset",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/backbone.collectionview": {
+            "master": {
+                "name": "bower/backbone.collectionview",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/anthonyshort/backbone.collectionview.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/backbone.include": {
+            "master": {
+                "name": "bower/backbone.include",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/anthonyshort/backbone.include.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/backbone.localStorage": {
+            "master": {
+                "name": "bower/backbone.localStorage",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/jeromegn/Backbone.localStorage.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/backbone.marionette.handlebars": {
+            "master": {
+                "name": "bower/backbone.marionette.handlebars",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/asciidisco/Backbone.Marionette.Handlebars",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/backbone.mutators": {
+            "master": {
+                "name": "bower/backbone.mutators",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/asciidisco/Backbone.Mutators",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/backbone.rpc": {
+            "master": {
+                "name": "bower/backbone.rpc",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/asciidisco/Backbone.Rpc",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/backbone.utils": {
+            "master": {
+                "name": "bower/backbone.utils",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/asciidisco/Backbone.Utils",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/barney-colorbox": {
+            "master": {
+                "name": "bower/barney-colorbox",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/barneyfoxuk/colorbox.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/bean": {
+            "master": {
+                "name": "bower/bean",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/fat/bean.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/beemuse": {
+            "master": {
+                "name": "bower/beemuse",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/itmustbe/package-beemuse",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/bonsai": {
+            "master": {
+                "name": "bower/bonsai",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/uxebu/bonsai.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/bonzo": {
+            "master": {
+                "name": "bower/bonzo",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/ded/bonzo.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/bootstrap": {
+            "master": {
+                "name": "bower/bootstrap",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/twitter/bootstrap.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/bootstrap-ajax": {
+            "master": {
+                "name": "bower/bootstrap-ajax",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/eldarion/bootstrap-ajax",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/bowser": {
+            "master": {
+                "name": "bower/bowser",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/ded/bowser.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/builder": {
+            "master": {
+                "name": "bower/builder",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/beastridge/builder",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/canjs": {
+            "master": {
+                "name": "bower/canjs",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/jupiterjs/canjs.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/chai": {
+            "master": {
+                "name": "bower/chai",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/chaijs/chai.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/cola": {
+            "master": {
+                "name": "bower/cola",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/cujojs/cola",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/color": {
+            "master": {
+                "name": "bower/color",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/One-com/one-color.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/cram": {
+            "master": {
+                "name": "bower/cram",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/cujojs/cram",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/css-explain": {
+            "master": {
+                "name": "bower/css-explain",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/josh/css-explain.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/csscritic": {
+            "master": {
+                "name": "bower/csscritic",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/cburgmer/csscritic",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/curl": {
+            "master": {
+                "name": "bower/curl",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/cujojs/curl",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/d3": {
+            "master": {
+                "name": "bower/d3",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/mbostock/d3.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/datatables": {
+            "master": {
+                "name": "bower/datatables",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/DataTables/DataTables",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/dawanda": {
+            "master": {
+                "name": "bower/dawanda",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/dawanda/dawanda-api-client-js.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/domready": {
+            "master": {
+                "name": "bower/domready",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/ded/domready.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/element-pants": {
+            "master": {
+                "name": "bower/element-pants",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/dandean/element-pants.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/ember": {
+            "master": {
+                "name": "bower/ember",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/emberjs/ember.js.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/eventEmitter": {
+            "master": {
+                "name": "bower/eventEmitter",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/Wolfy87/EventEmitter.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/fat/package-bootstrap": {
+            "master": {
+                "name": "bower/fat/package-bootstrap",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/fat/package-bootstrap.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/fil": {
+            "master": {
+                "name": "bower/fil",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/dannyx0/fil.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/fleck": {
+            "master": {
+                "name": "bower/fleck",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/trek/fleck",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/foo-handlebars": {
+            "master": {
+                "name": "bower/foo-handlebars",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/components/handlebars.js.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/foundation": {
+            "master": {
+                "name": "bower/foundation",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/zurb/foundation",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/frag": {
+            "master": {
+                "name": "bower/frag",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/rowanmanning/frag.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/fullcalendar": {
+            "master": {
+                "name": "bower/fullcalendar",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/bancek/fullcalendar.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/geartrain": {
+            "master": {
+                "name": "bower/geartrain",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/airportyh/geartrain.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/H5F": {
+            "master": {
+                "name": "bower/H5F",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/ryanseddon/H5F.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/handlebars": {
+            "master": {
+                "name": "bower/handlebars",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/components/handlebars.js",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/handlebars-clauswitt": {
+            "master": {
+                "name": "bower/handlebars-clauswitt",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/clauswitt/handlebars.js.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/html5-boilerplate": {
+            "master": {
+                "name": "bower/html5-boilerplate",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/h5bp/html5-boilerplate.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/html5-mobile-boilerplate": {
+            "master": {
+                "name": "bower/html5-mobile-boilerplate",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/h5bp/mobile-boilerplate.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/i18next": {
+            "master": {
+                "name": "bower/i18next",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/jamuhl/i18next",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/infinity": {
+            "master": {
+                "name": "bower/infinity",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/airbnb/infinity",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/iosbadge": {
+            "master": {
+                "name": "bower/iosbadge",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/kristerkari/iOSBadge.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/jabberd2": {
+            "master": {
+                "name": "bower/jabberd2",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/eagafonov/jabberd2.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/jade": {
+            "master": {
+                "name": "bower/jade",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/visionmedia/jade.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/jasmine": {
+            "master": {
+                "name": "bower/jasmine",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/pivotal/jasmine.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/jmpress": {
+            "master": {
+                "name": "bower/jmpress",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/jmpressjs/dist",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/jquery": {
+            "master": {
+                "name": "bower/jquery",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/components/jquery.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/jQuery-Collapse": {
+            "master": {
+                "name": "bower/jQuery-Collapse",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/danielstocks/jQuery-Collapse",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/jquery-masonry": {
+            "master": {
+                "name": "bower/jquery-masonry",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/desandro/masonry.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/jquery-mockjax": {
+            "master": {
+                "name": "bower/jquery-mockjax",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/appendto/jquery-mockjax",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/jquery-mousewheel": {
+            "master": {
+                "name": "bower/jquery-mousewheel",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/brandonaaron/jquery-mousewheel.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/jquery-pjax": {
+            "master": {
+                "name": "bower/jquery-pjax",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/defunkt/jquery-pjax.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/jquery-simpleweather": {
+            "master": {
+                "name": "bower/jquery-simpleweather",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/monkeecreate/jquery.simpleWeather",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/jquery-ui": {
+            "master": {
+                "name": "bower/jquery-ui",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/components/jqueryui",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/jquery.outbound-analytics": {
+            "master": {
+                "name": "bower/jquery.outbound-analytics",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/gmurphey/jquery.outbound-analytics",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/jquery.stellar": {
+            "master": {
+                "name": "bower/jquery.stellar",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/markdalgleish/stellar.js.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/json2": {
+            "master": {
+                "name": "bower/json2",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/douglascrockford/JSON-js.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/kickoff": {
+            "master": {
+                "name": "bower/kickoff",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/tmwagency/kickoff.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/lessbag": {
+            "master": {
+                "name": "bower/lessbag",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/happysri/lessbag.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/lodash": {
+            "master": {
+                "name": "bower/lodash",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/bestiejs/lodash",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/lorem": {
+            "master": {
+                "name": "bower/lorem",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/shyiko/lorem.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/maccmans/face": {
+            "master": {
+                "name": "bower/maccmans/face",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/fat/bootstrap.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/machina": {
+            "master": {
+                "name": "bower/machina",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/ifandelse/machina.js",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/marionette": {
+            "master": {
+                "name": "bower/marionette",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/marionettejs/backbone.marionette.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/meld": {
+            "master": {
+                "name": "bower/meld",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/cujojs/meld.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/miso.dataset": {
+            "master": {
+                "name": "bower/miso.dataset",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/misoproject/dataset",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/mocha": {
+            "master": {
+                "name": "bower/mocha",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/visionmedia/mocha.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/modernizr": {
+            "master": {
+                "name": "bower/modernizr",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/Modernizr/Modernizr.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/moment": {
+            "master": {
+                "name": "bower/moment",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/timrwood/moment.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/mootools-plus": {
+            "master": {
+                "name": "bower/mootools-plus",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/caedes/mootools-plus",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/mustache": {
+            "master": {
+                "name": "bower/mustache",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/janl/mustache.js",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/myawesomepackagename": {
+            "master": {
+                "name": "bower/myawesomepackagename",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/maccmans/face",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/nanoscroller": {
+            "master": {
+                "name": "bower/nanoscroller",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/jamesflorentino/nanoScrollerJS.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/nocomponent": {
+            "master": {
+                "name": "bower/nocomponent",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/aeosynth/demos",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/normalize-css": {
+            "master": {
+                "name": "bower/normalize-css",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/necolas/normalize.css.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/octo": {
+            "master": {
+                "name": "bower/octo",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/Caged/octo.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/oridomi": {
+            "master": {
+                "name": "bower/oridomi",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/dmotz/oriDomi",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/pledge": {
+            "master": {
+                "name": "bower/pledge",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/rowanmanning/pledge.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/poly": {
+            "master": {
+                "name": "bower/poly",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/cujojs/poly",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/popcornjs": {
+            "master": {
+                "name": "bower/popcornjs",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/mozilla/popcorn-js",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/postal": {
+            "master": {
+                "name": "bower/postal",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/ifandelse/postal.js",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/qwery": {
+            "master": {
+                "name": "bower/qwery",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/ded/qwery.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/rails-behaviors": {
+            "master": {
+                "name": "bower/rails-behaviors",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/josh/rails-behaviors.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/raphael": {
+            "master": {
+                "name": "bower/raphael",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/DmitryBaranovskiy/raphael.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/rasterizeHTML.js": {
+            "master": {
+                "name": "bower/rasterizeHTML.js",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/cburgmer/rasterizeHTML.js",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/remotestorage": {
+            "master": {
+                "name": "bower/remotestorage",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/RemoteStorage/remoteStorage.js.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/remoteStorage.js": {
+            "master": {
+                "name": "bower/remoteStorage.js",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/unhosted/remoteStorage.js",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/requirejs": {
+            "master": {
+                "name": "bower/requirejs",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/jrburke/requirejs",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/requirejs-text": {
+            "master": {
+                "name": "bower/requirejs-text",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/requirejs/text",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/responsiveiframe": {
+            "master": {
+                "name": "bower/responsiveiframe",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/npr/responsiveiframe",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/rivets": {
+            "master": {
+                "name": "bower/rivets",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/mikeric/rivets",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/sizzle": {
+            "master": {
+                "name": "bower/sizzle",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/jquery/sizzle.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/spine": {
+            "master": {
+                "name": "bower/spine",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/maccman/spine.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/stacktrace": {
+            "master": {
+                "name": "bower/stacktrace",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/eriwen/javascript-stacktrace",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/stateMachine": {
+            "master": {
+                "name": "bower/stateMachine",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/Wolfy87/StateMachine.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/stitch-css": {
+            "master": {
+                "name": "bower/stitch-css",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/anthonyshort/stitch-css.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/string-format": {
+            "master": {
+                "name": "bower/string-format",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/jsoverson/string-format.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/stuff": {
+            "master": {
+                "name": "bower/stuff",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/bengillies/stuff-js.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/test-handlebars": {
+            "master": {
+                "name": "bower/test-handlebars",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/twitter/bower.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/thorax": {
+            "master": {
+                "name": "bower/thorax",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/walmartlabs/thorax",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/threejs": {
+            "master": {
+                "name": "bower/threejs",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/mrdoob/three.js.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/thsimjs": {
+            "master": {
+                "name": "bower/thsimjs",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/tparisi/Sim.js.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/tipsy": {
+            "master": {
+                "name": "bower/tipsy",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/jaz303/tipsy",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/tire": {
+            "master": {
+                "name": "bower/tire",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/frozzare/tire.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/tower": {
+            "master": {
+                "name": "bower/tower",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/viatropos/tower",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/traversty": {
+            "master": {
+                "name": "bower/traversty",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/rvagg/traversty.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/trolley": {
+            "master": {
+                "name": "bower/trolley",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/eirikb/trolley",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/twitter/bootstrap": {
+            "master": {
+                "name": "bower/twitter/bootstrap",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/rails/rails.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/uglify-js": {
+            "master": {
+                "name": "bower/uglify-js",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/mishoo/UglifyJS.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/underscore": {
+            "master": {
+                "name": "bower/underscore",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/documentcloud/underscore.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/underscore.deferred": {
+            "master": {
+                "name": "bower/underscore.deferred",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/wookiehangover/underscore.deferred.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/underscore.string": {
+            "master": {
+                "name": "bower/underscore.string",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/epeli/underscore.string.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/valentine": {
+            "master": {
+                "name": "bower/valentine",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/ded/valentine.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/validation": {
+            "master": {
+                "name": "bower/validation",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/One-com/one-validation.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/when": {
+            "master": {
+                "name": "bower/when",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/cujojs/when.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/wire": {
+            "master": {
+                "name": "bower/wire",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/cujojs/wire.git",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/xybox": {
+            "master": {
+                "name": "bower/xybox",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/eirikb/xybox",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/yeoman-wordpress": {
+            "master": {
+                "name": "bower/yeoman-wordpress",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/romainberger/yeoman-wordpress",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        },
+        "bower/zepto": {
+            "master": {
+                "name": "bower/zepto",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "vcs",
+                    "url": "git://github.com/madrobby/zepto",
+                    "reference": "master"
+                },
+                "type": "library"
+            }
+        }
+    }
+}

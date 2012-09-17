@@ -1,0 +1,20 @@
+{
+    "name": "robloach/bowersatis",
+    "description": "Composer repository generator for Bower packages.",
+    "authors": [
+        {
+            "name": "Rob Loach",
+            "email": "robloach@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "BowerSatis": "src/"
+        }
+    },
+    "require": {
+        "composer/satis": "*",
+        "composer/composer": "*"
+    },
+    "minimum-stability": "dev"
+}

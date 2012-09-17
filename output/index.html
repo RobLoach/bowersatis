@@ -1,0 +1,1133 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex,nofollow" />
+    <title>Bower Satis Composer Repository</title>
+    <style type="text/css">
+    /*
+Copyright (c) 2009, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.8.0r4
+*/
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var,optgroup{font-style:inherit;font-weight:inherit;}del,ins{text-decoration:none;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:baseline;}sub{vertical-align:baseline;}legend{color:#000;}input,button,textarea,select,optgroup,option{font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;}input,button,textarea,select{*font-size:100%;}body{font:13px/1.231 arial,helvetica,clean,sans-serif;*font-size:small;*font:x-small;}select,input,button,textarea,button{font:99% arial,helvetica,clean,sans-serif;}table{font-size:inherit;font:100%;}pre,code,kbd,samp,tt{font-family:monospace;*font-size:108%;line-height:100%;}body{text-align:center;}#doc,#doc2,#doc3,#doc4,.yui-t1,.yui-t2,.yui-t3,.yui-t4,.yui-t5,.yui-t6,.yui-t7{margin:auto;text-align:left;width:57.69em;*width:56.25em;}#doc2{width:73.076em;*width:71.25em;}#doc3{margin:auto 10px;width:auto;}#doc4{width:74.923em;*width:73.05em;}.yui-b{position:relative;}.yui-b{_position:static;}#yui-main .yui-b{position:static;}#yui-main,.yui-g .yui-u .yui-g{width:100%;}.yui-t1 #yui-main,.yui-t2 #yui-main,.yui-t3 #yui-main{float:right;margin-left:-25em;}.yui-t4 #yui-main,.yui-t5 #yui-main,.yui-t6 #yui-main{float:left;margin-right:-25em;}.yui-t1 .yui-b{float:left;width:12.30769em;*width:12.00em;}.yui-t1 #yui-main .yui-b{margin-left:13.30769em;*margin-left:13.05em;}.yui-t2 .yui-b{float:left;width:13.8461em;*width:13.50em;}.yui-t2 #yui-main .yui-b{margin-left:14.8461em;*margin-left:14.55em;}.yui-t3 .yui-b{float:left;width:23.0769em;*width:22.50em;}.yui-t3 #yui-main .yui-b{margin-left:24.0769em;*margin-left:23.62em;}.yui-t4 .yui-b{float:right;width:13.8456em;*width:13.50em;}.yui-t4 #yui-main .yui-b{margin-right:14.8456em;*margin-right:14.55em;}.yui-t5 .yui-b{float:right;width:18.4615em;*width:18.00em;}.yui-t5 #yui-main .yui-b{margin-right:19.4615em;*margin-right:19.125em;}.yui-t6 .yui-b{float:right;width:23.0769em;*width:22.50em;}.yui-t6 #yui-main .yui-b{margin-right:24.0769em;*margin-right:23.62em;}.yui-t7 #yui-main .yui-b{display:block;margin:0 0 1em 0;}#yui-main .yui-b{float:none;width:auto;}.yui-gb .yui-u,.yui-g .yui-gb .yui-u,.yui-gb .yui-g,.yui-gb .yui-gb,.yui-gb .yui-gc,.yui-gb .yui-gd,.yui-gb .yui-ge,.yui-gb .yui-gf,.yui-gc .yui-u,.yui-gc .yui-g,.yui-gd .yui-u{float:left;}.yui-g .yui-u,.yui-g .yui-g,.yui-g .yui-gb,.yui-g .yui-gc,.yui-g .yui-gd,.yui-g .yui-ge,.yui-g .yui-gf,.yui-gc .yui-u,.yui-gd .yui-g,.yui-g .yui-gc .yui-u,.yui-ge .yui-u,.yui-ge .yui-g,.yui-gf .yui-g,.yui-gf .yui-u{float:right;}.yui-g div.first,.yui-gb div.first,.yui-gc div.first,.yui-gd div.first,.yui-ge div.first,.yui-gf div.first,.yui-g .yui-gc div.first,.yui-g .yui-ge div.first,.yui-gc div.first div.first{float:left;}.yui-g .yui-u,.yui-g .yui-g,.yui-g .yui-gb,.yui-g .yui-gc,.yui-g .yui-gd,.yui-g .yui-ge,.yui-g .yui-gf{width:49.1%;}.yui-gb .yui-u,.yui-g .yui-gb .yui-u,.yui-gb .yui-g,.yui-gb .yui-gb,.yui-gb .yui-gc,.yui-gb .yui-gd,.yui-gb .yui-ge,.yui-gb .yui-gf,.yui-gc .yui-u,.yui-gc .yui-g,.yui-gd .yui-u{width:32%;margin-left:1.99%;}.yui-gb .yui-u{*margin-left:1.9%;*width:31.9%;}.yui-gc div.first,.yui-gd .yui-u{width:66%;}.yui-gd div.first{width:32%;}.yui-ge div.first,.yui-gf .yui-u{width:74.2%;}.yui-ge .yui-u,.yui-gf div.first{width:24%;}.yui-g .yui-gb div.first,.yui-gb div.first,.yui-gc div.first,.yui-gd div.first{margin-left:0;}.yui-g .yui-g .yui-u,.yui-gb .yui-g .yui-u,.yui-gc .yui-g .yui-u,.yui-gd .yui-g .yui-u,.yui-ge .yui-g .yui-u,.yui-gf .yui-g .yui-u{width:49%;*width:48.1%;*margin-left:0;}.yui-g .yui-g .yui-u{width:48.1%;}.yui-g .yui-gb div.first,.yui-gb .yui-gb div.first{*margin-right:0;*width:32%;_width:31.7%;}.yui-g .yui-gc div.first,.yui-gd .yui-g{width:66%;}.yui-gb .yui-g div.first{*margin-right:4%;_margin-right:1.3%;}.yui-gb .yui-gc div.first,.yui-gb .yui-gd div.first{*margin-right:0;}.yui-gb .yui-gb .yui-u,.yui-gb .yui-gc .yui-u{*margin-left:1.8%;_margin-left:4%;}.yui-g .yui-gb .yui-u{_margin-left:1.0%;}.yui-gb .yui-gd .yui-u{*width:66%;_width:61.2%;}.yui-gb .yui-gd div.first{*width:31%;_width:29.5%;}.yui-g .yui-gc .yui-u,.yui-gb .yui-gc .yui-u{width:32%;_float:right;margin-right:0;_margin-left:0;}.yui-gb .yui-gc div.first{width:66%;*float:left;*margin-left:0;}.yui-gb .yui-ge .yui-u,.yui-gb .yui-gf .yui-u{margin:0;}.yui-gb .yui-gb .yui-u{_margin-left:.7%;}.yui-gb .yui-g div.first,.yui-gb .yui-gb div.first{*margin-left:0;}.yui-gc .yui-g .yui-u,.yui-gd .yui-g .yui-u{*width:48.1%;*margin-left:0;}.yui-gb .yui-gd div.first{width:32%;}.yui-g .yui-gd div.first{_width:29.9%;}.yui-ge .yui-g{width:24%;}.yui-gf .yui-g{width:74.2%;}.yui-gb .yui-ge div.yui-u,.yui-gb .yui-gf div.yui-u{float:right;}.yui-gb .yui-ge div.first,.yui-gb .yui-gf div.first{float:left;}.yui-gb .yui-ge .yui-u,.yui-gb .yui-gf div.first{*width:24%;_width:20%;}.yui-gb .yui-ge div.first,.yui-gb .yui-gf .yui-u{*width:73.5%;_width:65.5%;}.yui-ge div.first .yui-gd .yui-u{width:65%;}.yui-ge div.first .yui-gd div.first{width:32%;}#hd:after,#bd:after,#ft:after,.yui-g:after,.yui-gb:after,.yui-gc:after,.yui-gd:after,.yui-ge:after,.yui-gf:after{content:".";display:block;height:0;clear:both;visibility:hidden;}#hd,#bd,#ft,.yui-g,.yui-gb,.yui-gc,.yui-gd,.yui-ge,.yui-gf{zoom:1;}
+
+/* Satis stylesheet (heavily inspired by Pirum) */
+em { font-style: italic }
+strong { font-weight: bold }
+small { font-size: 80% }
+h1, h2, h3 { font-family:Georgia,Times New Roman,serif; letter-spacing: -0.03em; }
+h1 { font-size: 35px; margin-top: 20px; margin-bottom: 30px }
+h2 { font-size: 30px; margin-bottom: 20px; margin-top: 15px }
+h3 { font-size: 26px; margin-bottom: 10px; margin-top: 20px }
+pre { background-color: #000; color: #fff; margin: 5px 0; overflow: auto; padding: 10px; font-family: monospace }
+#ft { margin-top: 10px }
+ul { margin-top: 5px }
+li strong { color: #666 }
+p { margin-bottom: 10px }
+table { width: 100% }
+table th { width: 20% }
+table td, table th { padding: 4px; border: 1px solid #ccc }
+th { background-color: #eee }
+    </style>
+</head>
+<body>
+
+    <div id="doc" class="yui-t7">
+        <div id="hd">
+            <h1>Bower Satis Composer Repository</h1>
+                    </div>
+        <div id="bd">
+            <div class="yui-g">
+                Adding the repository to <em>composer.json</em>:
+                <pre><code>{
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.drupalbin.com"
+        }
+    ]
+}</code></pre>
+
+                                    <h3>bower/almond</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/jrburke/almond.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/amplify</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/appendto/amplify" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/angular</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/angular/bower-angular.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/angular-ui</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/angular-ui/angular-ui.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/backbone</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/documentcloud/backbone.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/backbone-amd</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/amdjs/backbone" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/backbone-dombuilder</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/insin/backbone-dombuilder" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/backbone-jqmobile</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/jumpbytehq/backbone-jqmobile" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/backbone.chosen</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/asciidisco/Backbone.Chosen" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/backbone.collectionsubset</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/anthonyshort/backbone.collectionsubset" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/backbone.collectionview</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/anthonyshort/backbone.collectionview.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/backbone.include</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/anthonyshort/backbone.include.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/backbone.localstorage</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/jeromegn/Backbone.localStorage.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/backbone.marionette.handlebars</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/asciidisco/Backbone.Marionette.Handlebars" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/backbone.mutators</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/asciidisco/Backbone.Mutators" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/backbone.rpc</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/asciidisco/Backbone.Rpc" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/backbone.utils</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/asciidisco/Backbone.Utils" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/barney-colorbox</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/barneyfoxuk/colorbox.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/bean</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/fat/bean.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/beemuse</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/itmustbe/package-beemuse" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/bonsai</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/uxebu/bonsai.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/bonzo</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/ded/bonzo.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/bootstrap</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/twitter/bootstrap.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/bootstrap-ajax</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/eldarion/bootstrap-ajax" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/bowser</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/ded/bowser.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/builder</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/beastridge/builder" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/canjs</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/jupiterjs/canjs.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/chai</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/chaijs/chai.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/cola</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/cujojs/cola" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/color</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/One-com/one-color.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/cram</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/cujojs/cram" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/css-explain</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/josh/css-explain.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/csscritic</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/cburgmer/csscritic" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/curl</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/cujojs/curl" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/d3</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/mbostock/d3.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/datatables</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/DataTables/DataTables" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/dawanda</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/dawanda/dawanda-api-client-js.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/domready</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/ded/domready.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/element-pants</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/dandean/element-pants.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/ember</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/emberjs/ember.js.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/eventemitter</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/Wolfy87/EventEmitter.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/fat/package-bootstrap</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/fat/package-bootstrap.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/fil</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/dannyx0/fil.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/fleck</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/trek/fleck" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/foo-handlebars</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/components/handlebars.js.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/foundation</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/zurb/foundation" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/frag</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/rowanmanning/frag.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/fullcalendar</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/bancek/fullcalendar.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/geartrain</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/airportyh/geartrain.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/h5f</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/ryanseddon/H5F.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/handlebars</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/components/handlebars.js" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/handlebars-clauswitt</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/clauswitt/handlebars.js.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/html5-boilerplate</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/h5bp/html5-boilerplate.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/html5-mobile-boilerplate</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/h5bp/mobile-boilerplate.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/i18next</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/jamuhl/i18next" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/infinity</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/airbnb/infinity" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/iosbadge</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/kristerkari/iOSBadge.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/jabberd2</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/eagafonov/jabberd2.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/jade</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/visionmedia/jade.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/jasmine</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/pivotal/jasmine.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/jmpress</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/jmpressjs/dist" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/jquery</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/components/jquery.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/jquery-collapse</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/danielstocks/jQuery-Collapse" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/jquery-masonry</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/desandro/masonry.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/jquery-mockjax</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/appendto/jquery-mockjax" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/jquery-mousewheel</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/brandonaaron/jquery-mousewheel.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/jquery-pjax</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/defunkt/jquery-pjax.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/jquery-simpleweather</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/monkeecreate/jquery.simpleWeather" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/jquery-ui</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/components/jqueryui" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/jquery.outbound-analytics</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/gmurphey/jquery.outbound-analytics" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/jquery.stellar</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/markdalgleish/stellar.js.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/json2</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/douglascrockford/JSON-js.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/kickoff</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/tmwagency/kickoff.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/lessbag</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/happysri/lessbag.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/lodash</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/bestiejs/lodash" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/lorem</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/shyiko/lorem.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/maccmans/face</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/fat/bootstrap.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/machina</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/ifandelse/machina.js" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/marionette</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/marionettejs/backbone.marionette.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/meld</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/cujojs/meld.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/miso.dataset</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/misoproject/dataset" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/mocha</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/visionmedia/mocha.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/modernizr</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/Modernizr/Modernizr.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/moment</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/timrwood/moment.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/mootools-plus</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/caedes/mootools-plus" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/mustache</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/janl/mustache.js" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/myawesomepackagename</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/maccmans/face" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/nanoscroller</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/jamesflorentino/nanoScrollerJS.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/nocomponent</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/aeosynth/demos" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/normalize-css</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/necolas/normalize.css.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/octo</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/Caged/octo.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/oridomi</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/dmotz/oriDomi" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/pledge</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/rowanmanning/pledge.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/poly</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/cujojs/poly" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/popcornjs</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/mozilla/popcorn-js" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/postal</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/ifandelse/postal.js" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/qwery</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/ded/qwery.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/rails-behaviors</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/josh/rails-behaviors.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/raphael</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/DmitryBaranovskiy/raphael.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/rasterizehtml.js</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/cburgmer/rasterizeHTML.js" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/remotestorage</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/RemoteStorage/remoteStorage.js.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/remotestorage.js</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/unhosted/remoteStorage.js" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/requirejs</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/jrburke/requirejs" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/requirejs-text</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/requirejs/text" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/responsiveiframe</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/npr/responsiveiframe" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/rivets</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/mikeric/rivets" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/sizzle</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/jquery/sizzle.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/spine</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/maccman/spine.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/stacktrace</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/eriwen/javascript-stacktrace" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/statemachine</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/Wolfy87/StateMachine.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/stitch-css</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/anthonyshort/stitch-css.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/string-format</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/jsoverson/string-format.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/stuff</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/bengillies/stuff-js.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/test-handlebars</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/twitter/bower.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/thorax</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/walmartlabs/thorax" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/threejs</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/mrdoob/three.js.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/thsimjs</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/tparisi/Sim.js.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/tipsy</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/jaz303/tipsy" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/tire</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/frozzare/tire.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/tower</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/viatropos/tower" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/traversty</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/rvagg/traversty.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/trolley</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/eirikb/trolley" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/twitter/bootstrap</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/rails/rails.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/uglify-js</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/mishoo/UglifyJS.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/underscore</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/documentcloud/underscore.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/underscore.deferred</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/wookiehangover/underscore.deferred.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/underscore.string</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/epeli/underscore.string.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/valentine</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/ded/valentine.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/validation</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/One-com/one-validation.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/when</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/cujojs/when.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/wire</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/cujojs/wire.git" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/xybox</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/eirikb/xybox" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/yeoman-wordpress</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/romainberger/yeoman-wordpress" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                                    <h3>bower/zepto</h3>
+                                        <table>
+                                                                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="git://github.com/madrobby/zepto" title="master">master</a>                            </td>
+                        </tr>
+                    </table>
+                            </div>
+        </div>
+        <div id="ft">
+            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2012-09-17T18:47:34-0400</small></p>
+        </div>
+    </div>
+
+</body>
+</html>
