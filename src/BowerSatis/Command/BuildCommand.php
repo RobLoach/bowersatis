@@ -43,7 +43,7 @@ class BuildCommand extends BaseBuildCommand
                     'name' => 'bower/' . $package->name,
                     'source' => array(
                         'url' => $package->url,
-                        'type' => 'vcs',
+                        'type' => 'git',
                         'reference' => 'master',
                     ),
                     'version' => 'dev-master',

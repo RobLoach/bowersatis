@@ -6,7 +6,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/jrburke/almond.git",
                     "reference": "master"
                 },
@@ -19,7 +19,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/appendto/amplify",
                     "reference": "master"
                 },
@@ -32,7 +32,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/angular/bower-angular.git",
                     "reference": "master"
                 },
@@ -45,7 +45,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/angular-ui/angular-ui.git",
                     "reference": "master"
                 },
@@ -58,7 +58,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/documentcloud/backbone.git",
                     "reference": "master"
                 },
@@ -71,7 +71,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/amdjs/backbone",
                     "reference": "master"
                 },
@@ -84,7 +84,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/insin/backbone-dombuilder",
                     "reference": "master"
                 },
@@ -97,7 +97,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/jumpbytehq/backbone-jqmobile",
                     "reference": "master"
                 },
@@ -110,7 +110,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/asciidisco/Backbone.Chosen",
                     "reference": "master"
                 },
@@ -123,7 +123,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/anthonyshort/backbone.collectionsubset",
                     "reference": "master"
                 },
@@ -136,7 +136,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/anthonyshort/backbone.collectionview.git",
                     "reference": "master"
                 },
@@ -149,7 +149,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/anthonyshort/backbone.include.git",
                     "reference": "master"
                 },
@@ -162,7 +162,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/jeromegn/Backbone.localStorage.git",
                     "reference": "master"
                 },
@@ -175,7 +175,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/asciidisco/Backbone.Marionette.Handlebars",
                     "reference": "master"
                 },
@@ -188,7 +188,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/asciidisco/Backbone.Mutators",
                     "reference": "master"
                 },
@@ -201,7 +201,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/asciidisco/Backbone.Rpc",
                     "reference": "master"
                 },
@@ -214,7 +214,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/asciidisco/Backbone.Utils",
                     "reference": "master"
                 },
@@ -227,7 +227,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/barneyfoxuk/colorbox.git",
                     "reference": "master"
                 },
@@ -240,7 +240,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/fat/bean.git",
                     "reference": "master"
                 },
@@ -253,7 +253,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/itmustbe/package-beemuse",
                     "reference": "master"
                 },
@@ -266,7 +266,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/uxebu/bonsai.git",
                     "reference": "master"
                 },
@@ -279,7 +279,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/ded/bonzo.git",
                     "reference": "master"
                 },
@@ -292,7 +292,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/twitter/bootstrap.git",
                     "reference": "master"
                 },
@@ -305,7 +305,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/eldarion/bootstrap-ajax",
                     "reference": "master"
                 },
@@ -318,7 +318,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/ded/bowser.git",
                     "reference": "master"
                 },
@@ -331,7 +331,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/beastridge/builder",
                     "reference": "master"
                 },
@@ -344,7 +344,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/jupiterjs/canjs.git",
                     "reference": "master"
                 },
@@ -357,7 +357,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/chaijs/chai.git",
                     "reference": "master"
                 },
@@ -370,7 +370,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/cujojs/cola",
                     "reference": "master"
                 },
@@ -383,7 +383,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/One-com/one-color.git",
                     "reference": "master"
                 },
@@ -396,7 +396,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/cujojs/cram",
                     "reference": "master"
                 },
@@ -409,7 +409,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/josh/css-explain.git",
                     "reference": "master"
                 },
@@ -422,7 +422,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/cburgmer/csscritic",
                     "reference": "master"
                 },
@@ -435,7 +435,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/cujojs/curl",
                     "reference": "master"
                 },
@@ -448,7 +448,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/mbostock/d3.git",
                     "reference": "master"
                 },
@@ -461,7 +461,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/DataTables/DataTables",
                     "reference": "master"
                 },
@@ -474,7 +474,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/dawanda/dawanda-api-client-js.git",
                     "reference": "master"
                 },
@@ -487,7 +487,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/ded/domready.git",
                     "reference": "master"
                 },
@@ -500,7 +500,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/dandean/element-pants.git",
                     "reference": "master"
                 },
@@ -513,7 +513,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/emberjs/ember.js.git",
                     "reference": "master"
                 },
@@ -526,7 +526,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/Wolfy87/EventEmitter.git",
                     "reference": "master"
                 },
@@ -539,7 +539,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/fat/package-bootstrap.git",
                     "reference": "master"
                 },
@@ -552,7 +552,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/dannyx0/fil.git",
                     "reference": "master"
                 },
@@ -565,7 +565,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/trek/fleck",
                     "reference": "master"
                 },
@@ -578,7 +578,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/components/handlebars.js.git",
                     "reference": "master"
                 },
@@ -591,7 +591,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/zurb/foundation",
                     "reference": "master"
                 },
@@ -604,7 +604,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/rowanmanning/frag.git",
                     "reference": "master"
                 },
@@ -617,7 +617,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/bancek/fullcalendar.git",
                     "reference": "master"
                 },
@@ -630,7 +630,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/airportyh/geartrain.git",
                     "reference": "master"
                 },
@@ -643,7 +643,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/ryanseddon/H5F.git",
                     "reference": "master"
                 },
@@ -656,7 +656,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/components/handlebars.js",
                     "reference": "master"
                 },
@@ -669,7 +669,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/clauswitt/handlebars.js.git",
                     "reference": "master"
                 },
@@ -682,7 +682,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/h5bp/html5-boilerplate.git",
                     "reference": "master"
                 },
@@ -695,7 +695,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/h5bp/mobile-boilerplate.git",
                     "reference": "master"
                 },
@@ -708,7 +708,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/jamuhl/i18next",
                     "reference": "master"
                 },
@@ -721,7 +721,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/airbnb/infinity",
                     "reference": "master"
                 },
@@ -734,7 +734,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/kristerkari/iOSBadge.git",
                     "reference": "master"
                 },
@@ -747,7 +747,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/eagafonov/jabberd2.git",
                     "reference": "master"
                 },
@@ -760,7 +760,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/visionmedia/jade.git",
                     "reference": "master"
                 },
@@ -773,7 +773,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/pivotal/jasmine.git",
                     "reference": "master"
                 },
@@ -786,7 +786,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/jmpressjs/dist",
                     "reference": "master"
                 },
@@ -799,7 +799,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/components/jquery.git",
                     "reference": "master"
                 },
@@ -812,7 +812,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/danielstocks/jQuery-Collapse",
                     "reference": "master"
                 },
@@ -825,7 +825,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/desandro/masonry.git",
                     "reference": "master"
                 },
@@ -838,7 +838,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/appendto/jquery-mockjax",
                     "reference": "master"
                 },
@@ -851,7 +851,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/brandonaaron/jquery-mousewheel.git",
                     "reference": "master"
                 },
@@ -864,7 +864,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/defunkt/jquery-pjax.git",
                     "reference": "master"
                 },
@@ -877,7 +877,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/monkeecreate/jquery.simpleWeather",
                     "reference": "master"
                 },
@@ -890,7 +890,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/components/jqueryui",
                     "reference": "master"
                 },
@@ -903,7 +903,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/gmurphey/jquery.outbound-analytics",
                     "reference": "master"
                 },
@@ -916,7 +916,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/markdalgleish/stellar.js.git",
                     "reference": "master"
                 },
@@ -929,7 +929,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/douglascrockford/JSON-js.git",
                     "reference": "master"
                 },
@@ -942,7 +942,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/tmwagency/kickoff.git",
                     "reference": "master"
                 },
@@ -955,7 +955,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/happysri/lessbag.git",
                     "reference": "master"
                 },
@@ -968,7 +968,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/bestiejs/lodash",
                     "reference": "master"
                 },
@@ -981,7 +981,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/shyiko/lorem.git",
                     "reference": "master"
                 },
@@ -994,7 +994,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/fat/bootstrap.git",
                     "reference": "master"
                 },
@@ -1007,7 +1007,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/ifandelse/machina.js",
                     "reference": "master"
                 },
@@ -1020,7 +1020,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/marionettejs/backbone.marionette.git",
                     "reference": "master"
                 },
@@ -1033,7 +1033,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/cujojs/meld.git",
                     "reference": "master"
                 },
@@ -1046,7 +1046,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/misoproject/dataset",
                     "reference": "master"
                 },
@@ -1059,7 +1059,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/visionmedia/mocha.git",
                     "reference": "master"
                 },
@@ -1072,7 +1072,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/Modernizr/Modernizr.git",
                     "reference": "master"
                 },
@@ -1085,7 +1085,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/timrwood/moment.git",
                     "reference": "master"
                 },
@@ -1098,7 +1098,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/caedes/mootools-plus",
                     "reference": "master"
                 },
@@ -1111,7 +1111,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/janl/mustache.js",
                     "reference": "master"
                 },
@@ -1124,7 +1124,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/maccmans/face",
                     "reference": "master"
                 },
@@ -1137,7 +1137,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/jamesflorentino/nanoScrollerJS.git",
                     "reference": "master"
                 },
@@ -1150,7 +1150,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/aeosynth/demos",
                     "reference": "master"
                 },
@@ -1163,7 +1163,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/necolas/normalize.css.git",
                     "reference": "master"
                 },
@@ -1176,7 +1176,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/Caged/octo.git",
                     "reference": "master"
                 },
@@ -1189,7 +1189,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/dmotz/oriDomi",
                     "reference": "master"
                 },
@@ -1202,7 +1202,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/rowanmanning/pledge.git",
                     "reference": "master"
                 },
@@ -1215,7 +1215,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/cujojs/poly",
                     "reference": "master"
                 },
@@ -1228,7 +1228,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/mozilla/popcorn-js",
                     "reference": "master"
                 },
@@ -1241,7 +1241,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/ifandelse/postal.js",
                     "reference": "master"
                 },
@@ -1254,7 +1254,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/ded/qwery.git",
                     "reference": "master"
                 },
@@ -1267,7 +1267,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/josh/rails-behaviors.git",
                     "reference": "master"
                 },
@@ -1280,7 +1280,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/DmitryBaranovskiy/raphael.git",
                     "reference": "master"
                 },
@@ -1293,7 +1293,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/cburgmer/rasterizeHTML.js",
                     "reference": "master"
                 },
@@ -1306,7 +1306,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/RemoteStorage/remoteStorage.js.git",
                     "reference": "master"
                 },
@@ -1319,7 +1319,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/unhosted/remoteStorage.js",
                     "reference": "master"
                 },
@@ -1332,7 +1332,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/jrburke/requirejs",
                     "reference": "master"
                 },
@@ -1345,7 +1345,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/requirejs/text",
                     "reference": "master"
                 },
@@ -1358,7 +1358,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/npr/responsiveiframe",
                     "reference": "master"
                 },
@@ -1371,7 +1371,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/mikeric/rivets",
                     "reference": "master"
                 },
@@ -1384,7 +1384,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/jquery/sizzle.git",
                     "reference": "master"
                 },
@@ -1397,7 +1397,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/maccman/spine.git",
                     "reference": "master"
                 },
@@ -1410,7 +1410,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/eriwen/javascript-stacktrace",
                     "reference": "master"
                 },
@@ -1423,7 +1423,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/Wolfy87/StateMachine.git",
                     "reference": "master"
                 },
@@ -1436,7 +1436,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/anthonyshort/stitch-css.git",
                     "reference": "master"
                 },
@@ -1449,7 +1449,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/jsoverson/string-format.git",
                     "reference": "master"
                 },
@@ -1462,7 +1462,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/bengillies/stuff-js.git",
                     "reference": "master"
                 },
@@ -1475,7 +1475,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/twitter/bower.git",
                     "reference": "master"
                 },
@@ -1488,7 +1488,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/walmartlabs/thorax",
                     "reference": "master"
                 },
@@ -1501,7 +1501,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/mrdoob/three.js.git",
                     "reference": "master"
                 },
@@ -1514,7 +1514,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/tparisi/Sim.js.git",
                     "reference": "master"
                 },
@@ -1527,7 +1527,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/jaz303/tipsy",
                     "reference": "master"
                 },
@@ -1540,7 +1540,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/frozzare/tire.git",
                     "reference": "master"
                 },
@@ -1553,7 +1553,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/viatropos/tower",
                     "reference": "master"
                 },
@@ -1566,7 +1566,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/rvagg/traversty.git",
                     "reference": "master"
                 },
@@ -1579,7 +1579,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/eirikb/trolley",
                     "reference": "master"
                 },
@@ -1592,7 +1592,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/rails/rails.git",
                     "reference": "master"
                 },
@@ -1605,7 +1605,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/mishoo/UglifyJS.git",
                     "reference": "master"
                 },
@@ -1618,7 +1618,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/documentcloud/underscore.git",
                     "reference": "master"
                 },
@@ -1631,7 +1631,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/wookiehangover/underscore.deferred.git",
                     "reference": "master"
                 },
@@ -1644,7 +1644,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/epeli/underscore.string.git",
                     "reference": "master"
                 },
@@ -1657,7 +1657,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/ded/valentine.git",
                     "reference": "master"
                 },
@@ -1670,7 +1670,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/One-com/one-validation.git",
                     "reference": "master"
                 },
@@ -1683,7 +1683,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/cujojs/when.git",
                     "reference": "master"
                 },
@@ -1696,7 +1696,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/cujojs/wire.git",
                     "reference": "master"
                 },
@@ -1709,7 +1709,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/eirikb/xybox",
                     "reference": "master"
                 },
@@ -1722,7 +1722,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/romainberger/yeoman-wordpress",
                     "reference": "master"
                 },
@@ -1735,7 +1735,7 @@
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "git://github.com/madrobby/zepto",
                     "reference": "master"
                 },
