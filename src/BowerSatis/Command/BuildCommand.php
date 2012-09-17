@@ -46,7 +46,7 @@ class BuildCommand extends BaseBuildCommand
                         'type' => 'vcs',
                         'reference' => 'master',
                     ),
-                    'version' => 'master',
+                    'version' => 'dev-master',
                 ),
             );
 

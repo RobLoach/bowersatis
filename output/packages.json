@@ -1,9 +1,9 @@
 {
     "packages": {
         "bower/almond": {
-            "master": {
+            "dev-master": {
                 "name": "bower/almond",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -14,9 +14,9 @@
             }
         },
         "bower/amplify": {
-            "master": {
+            "dev-master": {
                 "name": "bower/amplify",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -27,9 +27,9 @@
             }
         },
         "bower/angular": {
-            "master": {
+            "dev-master": {
                 "name": "bower/angular",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -40,9 +40,9 @@
             }
         },
         "bower/angular-ui": {
-            "master": {
+            "dev-master": {
                 "name": "bower/angular-ui",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -53,9 +53,9 @@
             }
         },
         "bower/backbone": {
-            "master": {
+            "dev-master": {
                 "name": "bower/backbone",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -66,9 +66,9 @@
             }
         },
         "bower/backbone-amd": {
-            "master": {
+            "dev-master": {
                 "name": "bower/backbone-amd",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -79,9 +79,9 @@
             }
         },
         "bower/backbone-dombuilder": {
-            "master": {
+            "dev-master": {
                 "name": "bower/backbone-dombuilder",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -92,9 +92,9 @@
             }
         },
         "bower/backbone-jqmobile": {
-            "master": {
+            "dev-master": {
                 "name": "bower/backbone-jqmobile",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -105,9 +105,9 @@
             }
         },
         "bower/backbone.chosen": {
-            "master": {
+            "dev-master": {
                 "name": "bower/backbone.chosen",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -118,9 +118,9 @@
             }
         },
         "bower/backbone.collectionsubset": {
-            "master": {
+            "dev-master": {
                 "name": "bower/backbone.collectionsubset",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -131,9 +131,9 @@
             }
         },
         "bower/backbone.collectionview": {
-            "master": {
+            "dev-master": {
                 "name": "bower/backbone.collectionview",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -144,9 +144,9 @@
             }
         },
         "bower/backbone.include": {
-            "master": {
+            "dev-master": {
                 "name": "bower/backbone.include",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -157,9 +157,9 @@
             }
         },
         "bower/backbone.localStorage": {
-            "master": {
+            "dev-master": {
                 "name": "bower/backbone.localStorage",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -170,9 +170,9 @@
             }
         },
         "bower/backbone.marionette.handlebars": {
-            "master": {
+            "dev-master": {
                 "name": "bower/backbone.marionette.handlebars",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -183,9 +183,9 @@
             }
         },
         "bower/backbone.mutators": {
-            "master": {
+            "dev-master": {
                 "name": "bower/backbone.mutators",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -196,9 +196,9 @@
             }
         },
         "bower/backbone.rpc": {
-            "master": {
+            "dev-master": {
                 "name": "bower/backbone.rpc",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -209,9 +209,9 @@
             }
         },
         "bower/backbone.utils": {
-            "master": {
+            "dev-master": {
                 "name": "bower/backbone.utils",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -222,9 +222,9 @@
             }
         },
         "bower/barney-colorbox": {
-            "master": {
+            "dev-master": {
                 "name": "bower/barney-colorbox",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -235,9 +235,9 @@
             }
         },
         "bower/bean": {
-            "master": {
+            "dev-master": {
                 "name": "bower/bean",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -248,9 +248,9 @@
             }
         },
         "bower/beemuse": {
-            "master": {
+            "dev-master": {
                 "name": "bower/beemuse",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -261,9 +261,9 @@
             }
         },
         "bower/bonsai": {
-            "master": {
+            "dev-master": {
                 "name": "bower/bonsai",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -274,9 +274,9 @@
             }
         },
         "bower/bonzo": {
-            "master": {
+            "dev-master": {
                 "name": "bower/bonzo",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -287,9 +287,9 @@
             }
         },
         "bower/bootstrap": {
-            "master": {
+            "dev-master": {
                 "name": "bower/bootstrap",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -300,9 +300,9 @@
             }
         },
         "bower/bootstrap-ajax": {
-            "master": {
+            "dev-master": {
                 "name": "bower/bootstrap-ajax",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -313,9 +313,9 @@
             }
         },
         "bower/bowser": {
-            "master": {
+            "dev-master": {
                 "name": "bower/bowser",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -326,9 +326,9 @@
             }
         },
         "bower/builder": {
-            "master": {
+            "dev-master": {
                 "name": "bower/builder",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -339,9 +339,9 @@
             }
         },
         "bower/canjs": {
-            "master": {
+            "dev-master": {
                 "name": "bower/canjs",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -352,9 +352,9 @@
             }
         },
         "bower/chai": {
-            "master": {
+            "dev-master": {
                 "name": "bower/chai",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -365,9 +365,9 @@
             }
         },
         "bower/cola": {
-            "master": {
+            "dev-master": {
                 "name": "bower/cola",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -378,9 +378,9 @@
             }
         },
         "bower/color": {
-            "master": {
+            "dev-master": {
                 "name": "bower/color",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -391,9 +391,9 @@
             }
         },
         "bower/cram": {
-            "master": {
+            "dev-master": {
                 "name": "bower/cram",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -404,9 +404,9 @@
             }
         },
         "bower/css-explain": {
-            "master": {
+            "dev-master": {
                 "name": "bower/css-explain",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -417,9 +417,9 @@
             }
         },
         "bower/csscritic": {
-            "master": {
+            "dev-master": {
                 "name": "bower/csscritic",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -430,9 +430,9 @@
             }
         },
         "bower/curl": {
-            "master": {
+            "dev-master": {
                 "name": "bower/curl",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -443,9 +443,9 @@
             }
         },
         "bower/d3": {
-            "master": {
+            "dev-master": {
                 "name": "bower/d3",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -456,9 +456,9 @@
             }
         },
         "bower/datatables": {
-            "master": {
+            "dev-master": {
                 "name": "bower/datatables",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -469,9 +469,9 @@
             }
         },
         "bower/dawanda": {
-            "master": {
+            "dev-master": {
                 "name": "bower/dawanda",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -482,9 +482,9 @@
             }
         },
         "bower/domready": {
-            "master": {
+            "dev-master": {
                 "name": "bower/domready",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -495,9 +495,9 @@
             }
         },
         "bower/element-pants": {
-            "master": {
+            "dev-master": {
                 "name": "bower/element-pants",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -508,9 +508,9 @@
             }
         },
         "bower/ember": {
-            "master": {
+            "dev-master": {
                 "name": "bower/ember",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -521,9 +521,9 @@
             }
         },
         "bower/eventEmitter": {
-            "master": {
+            "dev-master": {
                 "name": "bower/eventEmitter",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -534,9 +534,9 @@
             }
         },
         "bower/fat/package-bootstrap": {
-            "master": {
+            "dev-master": {
                 "name": "bower/fat/package-bootstrap",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -547,9 +547,9 @@
             }
         },
         "bower/fil": {
-            "master": {
+            "dev-master": {
                 "name": "bower/fil",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -560,9 +560,9 @@
             }
         },
         "bower/fleck": {
-            "master": {
+            "dev-master": {
                 "name": "bower/fleck",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -573,9 +573,9 @@
             }
         },
         "bower/foo-handlebars": {
-            "master": {
+            "dev-master": {
                 "name": "bower/foo-handlebars",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -586,9 +586,9 @@
             }
         },
         "bower/foundation": {
-            "master": {
+            "dev-master": {
                 "name": "bower/foundation",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -599,9 +599,9 @@
             }
         },
         "bower/frag": {
-            "master": {
+            "dev-master": {
                 "name": "bower/frag",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -612,9 +612,9 @@
             }
         },
         "bower/fullcalendar": {
-            "master": {
+            "dev-master": {
                 "name": "bower/fullcalendar",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -625,9 +625,9 @@
             }
         },
         "bower/geartrain": {
-            "master": {
+            "dev-master": {
                 "name": "bower/geartrain",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -638,9 +638,9 @@
             }
         },
         "bower/H5F": {
-            "master": {
+            "dev-master": {
                 "name": "bower/H5F",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -651,9 +651,9 @@
             }
         },
         "bower/handlebars": {
-            "master": {
+            "dev-master": {
                 "name": "bower/handlebars",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -664,9 +664,9 @@
             }
         },
         "bower/handlebars-clauswitt": {
-            "master": {
+            "dev-master": {
                 "name": "bower/handlebars-clauswitt",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -677,9 +677,9 @@
             }
         },
         "bower/html5-boilerplate": {
-            "master": {
+            "dev-master": {
                 "name": "bower/html5-boilerplate",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -690,9 +690,9 @@
             }
         },
         "bower/html5-mobile-boilerplate": {
-            "master": {
+            "dev-master": {
                 "name": "bower/html5-mobile-boilerplate",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -703,9 +703,9 @@
             }
         },
         "bower/i18next": {
-            "master": {
+            "dev-master": {
                 "name": "bower/i18next",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -716,9 +716,9 @@
             }
         },
         "bower/infinity": {
-            "master": {
+            "dev-master": {
                 "name": "bower/infinity",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -729,9 +729,9 @@
             }
         },
         "bower/iosbadge": {
-            "master": {
+            "dev-master": {
                 "name": "bower/iosbadge",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -742,9 +742,9 @@
             }
         },
         "bower/jabberd2": {
-            "master": {
+            "dev-master": {
                 "name": "bower/jabberd2",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -755,9 +755,9 @@
             }
         },
         "bower/jade": {
-            "master": {
+            "dev-master": {
                 "name": "bower/jade",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -768,9 +768,9 @@
             }
         },
         "bower/jasmine": {
-            "master": {
+            "dev-master": {
                 "name": "bower/jasmine",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -781,9 +781,9 @@
             }
         },
         "bower/jmpress": {
-            "master": {
+            "dev-master": {
                 "name": "bower/jmpress",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -794,9 +794,9 @@
             }
         },
         "bower/jquery": {
-            "master": {
+            "dev-master": {
                 "name": "bower/jquery",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -807,9 +807,9 @@
             }
         },
         "bower/jQuery-Collapse": {
-            "master": {
+            "dev-master": {
                 "name": "bower/jQuery-Collapse",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -820,9 +820,9 @@
             }
         },
         "bower/jquery-masonry": {
-            "master": {
+            "dev-master": {
                 "name": "bower/jquery-masonry",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -833,9 +833,9 @@
             }
         },
         "bower/jquery-mockjax": {
-            "master": {
+            "dev-master": {
                 "name": "bower/jquery-mockjax",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -846,9 +846,9 @@
             }
         },
         "bower/jquery-mousewheel": {
-            "master": {
+            "dev-master": {
                 "name": "bower/jquery-mousewheel",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -859,9 +859,9 @@
             }
         },
         "bower/jquery-pjax": {
-            "master": {
+            "dev-master": {
                 "name": "bower/jquery-pjax",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -872,9 +872,9 @@
             }
         },
         "bower/jquery-simpleweather": {
-            "master": {
+            "dev-master": {
                 "name": "bower/jquery-simpleweather",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -885,9 +885,9 @@
             }
         },
         "bower/jquery-ui": {
-            "master": {
+            "dev-master": {
                 "name": "bower/jquery-ui",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -898,9 +898,9 @@
             }
         },
         "bower/jquery.outbound-analytics": {
-            "master": {
+            "dev-master": {
                 "name": "bower/jquery.outbound-analytics",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -911,9 +911,9 @@
             }
         },
         "bower/jquery.stellar": {
-            "master": {
+            "dev-master": {
                 "name": "bower/jquery.stellar",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -924,9 +924,9 @@
             }
         },
         "bower/json2": {
-            "master": {
+            "dev-master": {
                 "name": "bower/json2",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -937,9 +937,9 @@
             }
         },
         "bower/kickoff": {
-            "master": {
+            "dev-master": {
                 "name": "bower/kickoff",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -950,9 +950,9 @@
             }
         },
         "bower/lessbag": {
-            "master": {
+            "dev-master": {
                 "name": "bower/lessbag",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -963,9 +963,9 @@
             }
         },
         "bower/lodash": {
-            "master": {
+            "dev-master": {
                 "name": "bower/lodash",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -976,9 +976,9 @@
             }
         },
         "bower/lorem": {
-            "master": {
+            "dev-master": {
                 "name": "bower/lorem",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -989,9 +989,9 @@
             }
         },
         "bower/maccmans/face": {
-            "master": {
+            "dev-master": {
                 "name": "bower/maccmans/face",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1002,9 +1002,9 @@
             }
         },
         "bower/machina": {
-            "master": {
+            "dev-master": {
                 "name": "bower/machina",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1015,9 +1015,9 @@
             }
         },
         "bower/marionette": {
-            "master": {
+            "dev-master": {
                 "name": "bower/marionette",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1028,9 +1028,9 @@
             }
         },
         "bower/meld": {
-            "master": {
+            "dev-master": {
                 "name": "bower/meld",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1041,9 +1041,9 @@
             }
         },
         "bower/miso.dataset": {
-            "master": {
+            "dev-master": {
                 "name": "bower/miso.dataset",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1054,9 +1054,9 @@
             }
         },
         "bower/mocha": {
-            "master": {
+            "dev-master": {
                 "name": "bower/mocha",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1067,9 +1067,9 @@
             }
         },
         "bower/modernizr": {
-            "master": {
+            "dev-master": {
                 "name": "bower/modernizr",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1080,9 +1080,9 @@
             }
         },
         "bower/moment": {
-            "master": {
+            "dev-master": {
                 "name": "bower/moment",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1093,9 +1093,9 @@
             }
         },
         "bower/mootools-plus": {
-            "master": {
+            "dev-master": {
                 "name": "bower/mootools-plus",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1106,9 +1106,9 @@
             }
         },
         "bower/mustache": {
-            "master": {
+            "dev-master": {
                 "name": "bower/mustache",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1119,9 +1119,9 @@
             }
         },
         "bower/myawesomepackagename": {
-            "master": {
+            "dev-master": {
                 "name": "bower/myawesomepackagename",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1132,9 +1132,9 @@
             }
         },
         "bower/nanoscroller": {
-            "master": {
+            "dev-master": {
                 "name": "bower/nanoscroller",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1145,9 +1145,9 @@
             }
         },
         "bower/nocomponent": {
-            "master": {
+            "dev-master": {
                 "name": "bower/nocomponent",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1158,9 +1158,9 @@
             }
         },
         "bower/normalize-css": {
-            "master": {
+            "dev-master": {
                 "name": "bower/normalize-css",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1171,9 +1171,9 @@
             }
         },
         "bower/octo": {
-            "master": {
+            "dev-master": {
                 "name": "bower/octo",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1184,9 +1184,9 @@
             }
         },
         "bower/oridomi": {
-            "master": {
+            "dev-master": {
                 "name": "bower/oridomi",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1197,9 +1197,9 @@
             }
         },
         "bower/pledge": {
-            "master": {
+            "dev-master": {
                 "name": "bower/pledge",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1210,9 +1210,9 @@
             }
         },
         "bower/poly": {
-            "master": {
+            "dev-master": {
                 "name": "bower/poly",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1223,9 +1223,9 @@
             }
         },
         "bower/popcornjs": {
-            "master": {
+            "dev-master": {
                 "name": "bower/popcornjs",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1236,9 +1236,9 @@
             }
         },
         "bower/postal": {
-            "master": {
+            "dev-master": {
                 "name": "bower/postal",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1249,9 +1249,9 @@
             }
         },
         "bower/qwery": {
-            "master": {
+            "dev-master": {
                 "name": "bower/qwery",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1262,9 +1262,9 @@
             }
         },
         "bower/rails-behaviors": {
-            "master": {
+            "dev-master": {
                 "name": "bower/rails-behaviors",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1275,9 +1275,9 @@
             }
         },
         "bower/raphael": {
-            "master": {
+            "dev-master": {
                 "name": "bower/raphael",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1288,9 +1288,9 @@
             }
         },
         "bower/rasterizeHTML.js": {
-            "master": {
+            "dev-master": {
                 "name": "bower/rasterizeHTML.js",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1301,9 +1301,9 @@
             }
         },
         "bower/remotestorage": {
-            "master": {
+            "dev-master": {
                 "name": "bower/remotestorage",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1314,9 +1314,9 @@
             }
         },
         "bower/remoteStorage.js": {
-            "master": {
+            "dev-master": {
                 "name": "bower/remoteStorage.js",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1327,9 +1327,9 @@
             }
         },
         "bower/requirejs": {
-            "master": {
+            "dev-master": {
                 "name": "bower/requirejs",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1340,9 +1340,9 @@
             }
         },
         "bower/requirejs-text": {
-            "master": {
+            "dev-master": {
                 "name": "bower/requirejs-text",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1353,9 +1353,9 @@
             }
         },
         "bower/responsiveiframe": {
-            "master": {
+            "dev-master": {
                 "name": "bower/responsiveiframe",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1366,9 +1366,9 @@
             }
         },
         "bower/rivets": {
-            "master": {
+            "dev-master": {
                 "name": "bower/rivets",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1379,9 +1379,9 @@
             }
         },
         "bower/sizzle": {
-            "master": {
+            "dev-master": {
                 "name": "bower/sizzle",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1392,9 +1392,9 @@
             }
         },
         "bower/spine": {
-            "master": {
+            "dev-master": {
                 "name": "bower/spine",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1405,9 +1405,9 @@
             }
         },
         "bower/stacktrace": {
-            "master": {
+            "dev-master": {
                 "name": "bower/stacktrace",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1418,9 +1418,9 @@
             }
         },
         "bower/stateMachine": {
-            "master": {
+            "dev-master": {
                 "name": "bower/stateMachine",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1431,9 +1431,9 @@
             }
         },
         "bower/stitch-css": {
-            "master": {
+            "dev-master": {
                 "name": "bower/stitch-css",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1444,9 +1444,9 @@
             }
         },
         "bower/string-format": {
-            "master": {
+            "dev-master": {
                 "name": "bower/string-format",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1457,9 +1457,9 @@
             }
         },
         "bower/stuff": {
-            "master": {
+            "dev-master": {
                 "name": "bower/stuff",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1470,9 +1470,9 @@
             }
         },
         "bower/test-handlebars": {
-            "master": {
+            "dev-master": {
                 "name": "bower/test-handlebars",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1483,9 +1483,9 @@
             }
         },
         "bower/thorax": {
-            "master": {
+            "dev-master": {
                 "name": "bower/thorax",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1496,9 +1496,9 @@
             }
         },
         "bower/threejs": {
-            "master": {
+            "dev-master": {
                 "name": "bower/threejs",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1509,9 +1509,9 @@
             }
         },
         "bower/thsimjs": {
-            "master": {
+            "dev-master": {
                 "name": "bower/thsimjs",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1522,9 +1522,9 @@
             }
         },
         "bower/tipsy": {
-            "master": {
+            "dev-master": {
                 "name": "bower/tipsy",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1535,9 +1535,9 @@
             }
         },
         "bower/tire": {
-            "master": {
+            "dev-master": {
                 "name": "bower/tire",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1548,9 +1548,9 @@
             }
         },
         "bower/tower": {
-            "master": {
+            "dev-master": {
                 "name": "bower/tower",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1561,9 +1561,9 @@
             }
         },
         "bower/traversty": {
-            "master": {
+            "dev-master": {
                 "name": "bower/traversty",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1574,9 +1574,9 @@
             }
         },
         "bower/trolley": {
-            "master": {
+            "dev-master": {
                 "name": "bower/trolley",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1587,9 +1587,9 @@
             }
         },
         "bower/twitter/bootstrap": {
-            "master": {
+            "dev-master": {
                 "name": "bower/twitter/bootstrap",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1600,9 +1600,9 @@
             }
         },
         "bower/uglify-js": {
-            "master": {
+            "dev-master": {
                 "name": "bower/uglify-js",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1613,9 +1613,9 @@
             }
         },
         "bower/underscore": {
-            "master": {
+            "dev-master": {
                 "name": "bower/underscore",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1626,9 +1626,9 @@
             }
         },
         "bower/underscore.deferred": {
-            "master": {
+            "dev-master": {
                 "name": "bower/underscore.deferred",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1639,9 +1639,9 @@
             }
         },
         "bower/underscore.string": {
-            "master": {
+            "dev-master": {
                 "name": "bower/underscore.string",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1652,9 +1652,9 @@
             }
         },
         "bower/valentine": {
-            "master": {
+            "dev-master": {
                 "name": "bower/valentine",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1665,9 +1665,9 @@
             }
         },
         "bower/validation": {
-            "master": {
+            "dev-master": {
                 "name": "bower/validation",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1678,9 +1678,9 @@
             }
         },
         "bower/when": {
-            "master": {
+            "dev-master": {
                 "name": "bower/when",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1691,9 +1691,9 @@
             }
         },
         "bower/wire": {
-            "master": {
+            "dev-master": {
                 "name": "bower/wire",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1704,9 +1704,9 @@
             }
         },
         "bower/xybox": {
-            "master": {
+            "dev-master": {
                 "name": "bower/xybox",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1717,9 +1717,9 @@
             }
         },
         "bower/yeoman-wordpress": {
-            "master": {
+            "dev-master": {
                 "name": "bower/yeoman-wordpress",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
@@ -1730,9 +1730,9 @@
             }
         },
         "bower/zepto": {
-            "master": {
+            "dev-master": {
                 "name": "bower/zepto",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "vcs",
